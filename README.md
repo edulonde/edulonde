@@ -5,7 +5,7 @@ I am Edu Londe, this are some facts about me:
 - 💻 I am currently studying Computer Engineering at [UNIVESP](https://univesp.br/) .
 - 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).
 - 🌱 My first education was is in Bachelor of Social Sciences at [UNICAMP](https://www.unicamp.br/unicamp/).
-- ⚡ I am a Open Source and Tech Enthuiast, I believe that technology makes the world better.
+- ⚡ I am a Open Source and Tech Enthusiast, I believe that technology makes the world better.
 - 🚴 I am an urban cyclist and cycling is my main mode of transport. 
 - 🌄 I really love to trekking.
 

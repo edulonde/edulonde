@@ -1,4 +1,4 @@
-## Hi there 👋 ![wave](hands-wave.gif)
+## Hi there <img src=".hands-wave.gif" width="50%" height="50%"/>
 
 I am Edu Londe, this are some facts about me:
 

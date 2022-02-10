@@ -15,22 +15,22 @@ I am Edu Londe, this are some facts about me:
 - 🇫🇷 J'aime la langue française. 
 
 
-## Programming Languages 
+## Programming Languages (_Learning_)
 HTML - CSS - Javascrip - Python
   
-### ⚡ Frameworks, Platforms and Libraries (Learning)
-- Node.js - React.js - Vue.js - Django - Flask - Insomnia
+### Frameworks, Platforms and Libraries (_Learning_)
+Node.js - React.js - Vue.js - Django - Flask - Insomnia
 
-### Data-base (Learning)
-- MariaDB - MongoDB - PostgreSQL
+### Data-base (_Learning_)
+MariaDB - MongoDB - PostgreSQL
 
 ### I like to use this IDEs/ Editors:
-- PyCharm - Atom - Vim - Jupyter Notebook
+PyCharm - Atom - Vim - Jupyter Notebook
 
-
+<!-- 
 ## Also find me at:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -> link
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -> link
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) -> link
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -> link
-
+ -->

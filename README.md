@@ -5,7 +5,7 @@ I am Edu Londe, this are some facts about me:
 - 💻 I am currently studying Computer Engineering at [UNIVESP](https://univesp.br/) .
 - 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).
 - 🌱 My first education was in Bachelor of Social Sciences at [UNICAMP](https://www.unicamp.br/unicamp/).
-- ⚡ I am a Open Source and Tech Enthuiast, I believe that technology make the world better.
+- ⚡ I am a Open Source and Tech Enthuiast, I believe that technology makes the world better.
 - 🚴 I am an urban cyclist and cycling is my main mode of transport. 
 - 🌄 I really love to trekking.
 
@@ -16,7 +16,7 @@ I am Edu Londe, this are some facts about me:
 
 
 
-## Machine Languages (Learning)
+## Programming Languages (Learning)
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 ### ⚡ Frameworks, Platforms and Libraries (Learning)

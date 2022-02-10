@@ -16,27 +16,16 @@ I am Edu Londe, this are some facts about me:
 
 
 ## Programming Languages 
-HTML - CSS - JAVASCRIPT
-PYTHON
+HTML - CSS - Javascrip - Python
   
 ### ⚡ Frameworks, Platforms and Libraries (Learning)
-- Node.js
-- React.js
-- Vue.js
-- Django
-- Flask
-- Insomnia
+- Node.js - React.js - Vue.js - Django - Flask - Insomnia
 
 ### Data-base (Learning)
-- MariaDB
-- MongoDB
-- PostgreSQL
+- MariaDB - MongoDB - PostgreSQL
 
 ### I like to use this IDEs/ Editors:
-- PyCharm
-- Atom
-- Vim
-- Jupyter Notebook
+- PyCharm - Atom - Vim - Jupyter Notebook
 
 
 ## Also find me at:

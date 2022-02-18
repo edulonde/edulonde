@@ -3,7 +3,7 @@
 I am Edu Londe, this are some facts about me:
 
 - 💻 I am currently at 1st year Computer Engineering at [UNIVESP](https://univesp.br/) .
-- 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).
+<!-- 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).  -->
 - 🌱 My first education was is in Bachelor of Social Sciences at [UNICAMP](https://www.unicamp.br/unicamp/).
 - ⚡ I am a Open Source and Tech Enthusiast, I believe that technology makes the world better.
 - 🚴 I am an urban cyclist and cycling is my main mode of transport. 
@@ -17,15 +17,16 @@ I am Edu Londe, this are some facts about me:
 
 ## Programming Languages (_Learning_)
 HTML - CSS - Javascrip - Python
-  
+<!--   
 ## Frameworks, Platforms and Libraries (_Learning_)
 Node.js - React.js - Vue.js - Django - Flask - Insomnia
-
+ -->
 ## Data-base (_Learning_)
-MariaDB - MongoDB - PostgreSQL
+MariaDB - 
+## I like to use this toolss:
+PyCharm - Atom - Vim - 💚Linux
 
-## I like to use this IDEs/ Editors:
-PyCharm - Atom - Vim - Jupyter Notebook
+##
 
 <!-- 
 ## Also find me at:

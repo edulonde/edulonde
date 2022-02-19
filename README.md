@@ -1,9 +1,7 @@
 ## Hi there <img src="hands-wave.gif" width="4%" height="4%"/>
-
-I am Edu Londe, this are some facts about me:
+My name is José Eduardo , this are some facts about me:
 
 - 💻 I am currently at 1st year Computer Engineering at [UNIVESP](https://univesp.br/) .
-<!-- 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).  -->
 - 🌱 My first education was is in Bachelor of Social Sciences at [UNICAMP](https://www.unicamp.br/unicamp/).
 - ⚡ I am a Open Source and Tech Enthusiast, I believe that technology makes the world better.
 - 🚴 I am an urban cyclist and cycling is my main mode of transport. 
@@ -16,18 +14,19 @@ I am Edu Londe, this are some facts about me:
 
 
 ## Programming Languages (_Learning_)
-HTML - CSS - Javascrip - Python
+HTML - CSS - Javascript - Python
+## Data-base (_Learning_)
+MariaDB - 
+## I like to use this tools:
+💚Linux (actually Manjaro-Gnome) - Jetbrains IDE's - Vim
+
+<!-- 🚀 I'm currently studying Full Stack Web postgraduate at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).  -->
+
+
 <!--   
 ## Frameworks, Platforms and Libraries (_Learning_)
 Node.js - React.js - Vue.js - Django - Flask - Insomnia
  -->
-## Data-base (_Learning_)
-MariaDB - 
-## I like to use this toolss:
-PyCharm - Atom - Vim - 💚Linux
-
-##
-
 <!-- 
 ## Also find me at:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -> link

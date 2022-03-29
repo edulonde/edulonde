@@ -17,7 +17,7 @@ My name is José Eduardo , this are some facts about me:
 ## Programming Languages (_Learning_)
 HTML - CSS - Javascript - Python
 ## Data-base (_Learning_)
-MariaDB - 
+MariaDB - MongoDB - SQLite
 ## I like to use this tools:
 💚Linux (actually Manjaro-Gnome) - Jetbrains IDE's - Vim
 

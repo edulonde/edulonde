@@ -1,8 +1,8 @@
 ## Hi there <img src="hands-wave.gif" width="4%" height="4%"/>
-My name is José Eduardo , this are some facts about me:
+My name is José Eduardo Santos Londe, you can call me Eduardo , this are some facts about me:
 
 ### Formation
-- 💻 I am currently at 3st year Computer Engineering at [UNIVESP](https://univesp.br/) .
+- 💻 I am currently at 4st year Computer Engineering at [UNIVESP](https://univesp.br/) .
 - 🚀 I have a postgraduate degree in Full Stack Web at [PUC-MG-Virtual](https://www.pucminas.br/PucVirtual/Paginas/default.aspx).
 - 🌱 My first education was is in Bachelor of Social Sciences at [UNICAMP](https://www.unicamp.br/unicamp/).
 
